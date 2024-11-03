@@ -1,3 +1,3 @@
 # coffee
 
-we redid this in class, and we are now using hugging face.
+Using data, we trained a machine model on our coffee data, and we allowed users to input their preferences on a web browser to retrive their recommended coffee.
